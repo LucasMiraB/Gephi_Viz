@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "",
-    "intro": "Gráfico criado a partir dos dados de consultorias extraídos pelo GH",
-    "title": "Data Specialties from GH"
+    "intro": "Gráfico criado para representar as empresas que prestam serviços de Dados,Cloud,Machine Learning que estão contratando cientistas de dados no brarsil",
+    "title": "Data Specialities Clustering from Linkedin"
   },
   "legend": {
     "edgeLabel": "Especialidades em Comum",
@@ -32,7 +32,7 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
+      "defaultLabelColor": "#fff",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
