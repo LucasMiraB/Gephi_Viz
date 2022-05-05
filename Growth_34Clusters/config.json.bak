@@ -10,7 +10,7 @@
   "text": {
     "more": "Long Description",
     "intro": "Gráfico criado a partir dos dados de consultorias extraídos pelo GH",
-    "title": "Data Specialties from GH"
+    "title": "Data Specialties from GH ======================"
   },
   "legend": {
     "edgeLabel": "Especialidades em Comum",
@@ -30,9 +30,9 @@
     "drawingProperties": {
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#ddd",
+      "defaultLabelBGColor": "#fff",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
+      "defaultLabelColor": "#fff",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
@@ -42,7 +42,7 @@
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 5,
+      "minNodeSize": 1,
       "maxNodeSize": 15
     },
     "mouseProperties": {
